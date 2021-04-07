@@ -15,4 +15,4 @@ The first 3 characters of the first name are concatenated with the first three l
   - one digit
   - and be 7 characters long
 
-Note: (The user must enter a password that adheres to the above criteria in order for the password to be accepted.)
+Note: The user must enter a password that adheres to the above criteria in order for the password to be accepted.
