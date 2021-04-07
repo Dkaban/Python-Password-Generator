@@ -1,4 +1,4 @@
-# Python-Password-Generator
+# Python Password Generator
 This is a password generator created in Python
 
 ## How it works:
