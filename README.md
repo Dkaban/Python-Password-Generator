@@ -1,5 +1,5 @@
 # Python Password Generator
-This is a password generator created in Python
+This is a password generator created in Python.
 
 ## How it works:
 User is prompted to:
